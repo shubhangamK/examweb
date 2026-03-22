@@ -28,9 +28,3 @@ Consumes REST APIs from [ExamCore](https://github.com/shubhangamK/examcore)
 ## Backend
 This project requires ExamCore backend running on `http://localhost:8080`
 ```
-
-Save it, then run:
-```
-git add README.md
-git commit -m "Resolve README merge conflict"
-git push
