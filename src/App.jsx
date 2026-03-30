@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route , Navigate} from "react-router-dom"
 import ProtectedRoute from "./components/ProtectedRoute"
+import LoginPage from "./pages/LoginPage"
 
-  const LoginPage = () => <div>LoginPage</div>
   const RegisterPage = () => <div>RegisterPage</div>
   const DashboardPage =() => <div>DashboardPage</div>
   const ExamPage = () => <div>ExamPage</div>
