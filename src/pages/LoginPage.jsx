@@ -27,7 +27,7 @@ const handleLogin = async () => {
 }
 return (
   <div>
-    <h2>Login</h2>
+    <h2 className="text-3xl font-bold text-blue-600">Login</h2>
     <input 
       type="email"
       value={email}
